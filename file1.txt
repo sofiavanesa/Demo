@@ -1,1 +1,2 @@
-I'm adding studd to file1.txt
+I'm adding stuff to file1.txt
+I'm adding more stuff to file1.txt
